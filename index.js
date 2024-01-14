@@ -1,4 +1,4 @@
-const steamUser = require('i_like_chicken47');
+const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 const keep_alive = require('./keep_alive.js')
 
